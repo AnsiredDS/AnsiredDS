@@ -2,7 +2,7 @@
 Me chamo Bruno de Araujo Souza! 
 Sobre mim: 
 - 17 anos 📅
-- Estou estudando: Front-End 💻
+- Estou estudando: Back-End (Laravel) 💻
 - Também faço jogos nas horas vagas em Unity 🎮
 
 Informações do Github: </br>
